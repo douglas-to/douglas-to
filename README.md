@@ -5,4 +5,5 @@ Olá eu sou o Douglas!👋
 - 📫 Contate me no email: dougoliveira564@gmail.com
 - ⚡ Depois dos estudos, adoro jogar video game!
 - ☕ Eu gosto muito, tipo muito mesmo de café!
+- 📜 Tenho formação tecnica (Curso sobre front-end) pela escola EAD danki.code.
 
