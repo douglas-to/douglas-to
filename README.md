@@ -10,7 +10,7 @@ Olá eu sou o Douglas!👋
 - 📜 Cursando (Curso sobre desenvolvimento web 2022) pela escola EAD Udemy .
 - 👉 Portfólio feito utilizando bootstrap, que contem informações sobre meu dia a dia como desenvolvedor web.
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-to&theme=discord_old_blurple&show_icons=true)]      (https://github.com/anuraghazra/github-readme-stats)
-</div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-to&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
