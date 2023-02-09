@@ -9,3 +9,5 @@ Olá eu sou o Douglas!👋
 - 📜 Tenho formação tecnica (Curso desenvolvimento web) pela escola EAD rocketseet .
 - 📜 Cursando (Curso sobre desenvolvimento web 2022) pela escola EAD Udemy .
 - 👉 Portfólio feito utilizando bootstrap, que contem informações sobre meu dia a dia como desenvolvedor web.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-to)](https://github.com/anuraghazra/github-readme-stats)
