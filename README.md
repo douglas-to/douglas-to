@@ -11,6 +11,7 @@ Olá eu sou o Douglas!👋
 - 👉 Portfólio feito utilizando bootstrap, que contem informações sobre meu dia a dia como desenvolvedor web.
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-to&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-to&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
