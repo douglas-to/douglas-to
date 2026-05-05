@@ -1,14 +1,10 @@
 <div>
   
   👋 Olá eu sou o Douglas!
-  
-  🔭 Freelancer!
     
-  🌱 Estou estudando desenvolvimento web faz + de 2 anos, no momento dedicado ao PHP
+  📜 Estudando programação desde 2022, atualmente fazendo meu superior em Analise e Desenvolvimentos de Sistema.
   
   📫 Meu portfólio https://doug-to.netlify.app/
-  
-  ⚡ Depois dos estudos, adoro jogar video game!
   
   ☕ Eu gosto muito, tipo muito mesmo de café!
   
@@ -16,7 +12,7 @@
   
   📜 Tenho formação tecnica (Curso desenvolvimento web) pela escola EAD rocketseet.
   
-  📜 Cursando (Curso sobre desenvolvimento web 2022) pela escola EAD Udemy.
+  📜 Tenho formação tecnica (Curso sobre desenvolvimento web 2022) pela escola EAD Udemy.
 </div>
 
 <picture>
