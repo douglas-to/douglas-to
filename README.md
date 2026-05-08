@@ -13,6 +13,7 @@
   📜 Tenho formação tecnica (Curso desenvolvimento web) pela escola EAD rocketseet.
   
   📜 Tenho formação tecnica (Curso sobre desenvolvimento web 2022) pela escola EAD Udemy.
+  
 </div>
 
 <picture>
